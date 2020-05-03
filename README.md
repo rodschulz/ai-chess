@@ -1,0 +1,2 @@
+# ai-chess
+Pet project
